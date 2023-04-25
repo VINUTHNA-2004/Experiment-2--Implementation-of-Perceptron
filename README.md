@@ -186,11 +186,11 @@ plot_decision_regions(x_test, y_test)
  ```
  #OUTPUT
  
-#Dataset:
-#Scatterplot:
-#Y-axis:
-#Errorplot:
-#Accuracy:
+# Dataset:
+# Scatterplot:
+# Y-axis:
+# Errorplot:
+# Accuracy:
 
-#Result:
+# Result:
 Thus a perceptron for classification is implemented using python
